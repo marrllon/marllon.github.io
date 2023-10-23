@@ -15,8 +15,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: url("imagfond.jpg")no-repeat center center fixed ;
-	opacity: 0.5;
+  background: rgba(0, 0, 0, 0.5) url("imagfond.jpg") center no-repeat fixed;
     
     background-size: 103%;
     z-index: 1;
