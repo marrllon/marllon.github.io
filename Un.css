@@ -933,12 +933,12 @@ margin-right: 6px;
   }
 
   .social-icons-foother {
-    margin-left: 1px;
+    margin-left: -5px;
   }
 
   .social-icons-foother a {
 max-width: 20px;
-margin-left: 4px;
+margin-left: 1px;
   }
  
 }
