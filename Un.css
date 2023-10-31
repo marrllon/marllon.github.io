@@ -376,7 +376,7 @@ margin-right: 10px;
 /* Estilos para el menú en tabletas (ancho máximo de 768px) *
 
 /* Media query para tabletas */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 769px) {
 
     body {
         font-family: Arial, sans-serif;
@@ -649,7 +649,7 @@ margin-bottom: 10px;
     /* Estilos para escritorio */
 
 /* Media query para dispositivos móviles */
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 479px) {
     
 
     body {
