@@ -495,7 +495,7 @@ margin-right: 10px;
     
     /* Estilos para hacer que las opciones sean rectangulares */
     #menu-list a {
-        display: block;
+        display: none;
         padding: 10px; /* Espaciado dentro del rectángulo */
         border: 1px solid white; /* Borde blanco */
         border-radius: 5px; /* Bordes redondeados */
