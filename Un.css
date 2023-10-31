@@ -410,16 +410,7 @@ margin-right: 10px;
     }
 
     /* Estilos para el menú responsive (menú de hamburguesa) */
-    #menu-responsive {
-        display: none; /* Mostrar el menú responsive solo en tabletas */
-        position: fixed;
-        top: 60px;
-        left: 0;
-        width: 100%;
-        background: rgba(0, 0, 0, 0.6);
-        z-index: 1001;
-    }
-
+    
     #menu-responsive ul {
         list-style-type: none;
         margin: 0;
