@@ -376,7 +376,7 @@ margin-right: 10px;
 /* Estilos para el menú en tabletas (ancho máximo de 768px) *
 
 /* Media query para tabletas */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 820px) {
 
     body {
         font-family: Arial, sans-serif;
@@ -504,7 +504,7 @@ margin-right: 10px;
     
     /* Estilos para hacer que las opciones sean rectangulares */
     #menu-list a {
-        display: block;
+        display: none;
         padding: 10px; /* Espaciado dentro del rectángulo */
         border: 1px solid white; /* Borde blanco */
         border-radius: 5px; /* Bordes redondeados */
