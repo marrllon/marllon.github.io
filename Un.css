@@ -420,7 +420,7 @@ margin-right: 10px;
     #menu-responsive li {
         text-align: center;
         padding: 10px 0;
-	    display: none;
+	   list-style-type: none;
     }
 
     #menu-icon {
