@@ -421,7 +421,7 @@ margin-right: 10px;
     }
     #menu-responsive ul {
 
-        list-style-type: none;
+        
         margin: 0;
         padding: 0;
     }
@@ -429,7 +429,7 @@ margin-right: 10px;
     #menu-responsive li {
         text-align: center;
         padding: 10px 0;
-	   list-style-type: none;
+	   
     }
 
     #menu-icon {
