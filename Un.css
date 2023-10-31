@@ -413,7 +413,7 @@ margin-right: 10px;
    
     #menu-responsive ul {
 
-        list-style-type: block;
+        list-style-type: none;
         margin: 0;
         padding: 0;
     }
