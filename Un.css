@@ -411,7 +411,7 @@ margin-right: 10px;
 
     /* Estilos para el menú responsive (menú de hamburguesa) */
     #menu-responsive {
-        display: none; /* Mostrar el menú responsive solo en tabletas */
+        display: block; /* Mostrar el menú responsive solo en tabletas */
         position: fixed;
         top: 60px;
         left: 0;
@@ -499,12 +499,11 @@ margin-right: 10px;
 
     #menu-list li {
         margin: 10px 0; /* Espaciado entre las opciones */
-	 display: none;    
     }
     
     /* Estilos para hacer que las opciones sean rectangulares */
     #menu-list a {
-        display: none;
+        display: block;
         padding: 10px; /* Espaciado dentro del rectángulo */
         border: 1px solid white; /* Borde blanco */
         border-radius: 5px; /* Bordes redondeados */
