@@ -376,7 +376,7 @@ margin-right: 10px;
 /* Estilos para el menú en tabletas (ancho máximo de 768px) *
 
 /* Media query para tabletas */
-@media screen and (max-width: 769px) {
+@media screen and (max-width: 800px) {
 
     body {
         font-family: Arial, sans-serif;
@@ -629,7 +629,7 @@ margin-bottom: 10px;
 
 
 /* Estilos para el menú en tamaños de pantalla más grandes (ancho mínimo de 769px) */
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 800px) {
     #menu-list {
         display: flex !important; /* Asegura que el menú esté visible */
         flex-direction: row; /* Ajusta la dirección del menú a horizontal */
